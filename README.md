@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AstroTaha
+- 👀 I’m interested in Astronomy, Science and Coding
+- 🌱 I’m currently learning Python
+- 📫 How to reach me, Contact me at: tahatheastronaut2@gmail.com
